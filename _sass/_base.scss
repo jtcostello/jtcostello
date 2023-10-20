@@ -255,7 +255,7 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2.5rem;    // this controls the icon size - JC (originally was 4rem)
     a {
       i::before {
         color: var(--global-text-color);
