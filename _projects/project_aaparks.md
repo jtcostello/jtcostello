@@ -9,7 +9,7 @@ category:
 October 2020
 
 
-In middle school I learned there were over 160 parks in Ann Arbor, and ever since I've wanted to go to them all. 
+In middle school I learned there were over 150 parks in Ann Arbor, and ever since I've wanted to go to them all. 
 In 2020 I visited each park, across 4 (meticulously planned) bike rides.
 
 <div class="row">
