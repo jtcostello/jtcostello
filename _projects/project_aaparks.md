@@ -3,7 +3,7 @@ layout: page
 title: Ann Arbor Parks
 description: an effort to go to each of the 150 parks in Ann Arbor
 img: assets/img/aaparks/collage1.png
-importance: 3
+importance: 5
 category:
 ---
 October 2020

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Parkinson's Mobility Device
-description: a foot vibrator to help people with Parkinson's walk
+description: a tactile vibrator to help people with Parkinson's walk
 img: assets/img/footvibrator/footvibratoroverview.png
-importance: 5
+importance: 4
 category:
 ---
 May 2016
@@ -12,7 +12,7 @@ May 2016
 <iframe src="https://player.vimeo.com/video/161125752?h=82dcc7a4a4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-I designed a foot vibrator and mobile app to help people with Parkinson's walk more easily. 
+I designed a tactile foot vibrator and mobile app to help people with Parkinson's walk more easily. 
 Many people with Parkinson's deal with freezing of gait, where their feet are "stuck" to the ground. 
 To maintain a more normal gait, the device is worn on the foot and the user aims to step each time they feel a vibration.
 The app allows the user to adjust the vibration frequency to match their desired step rate.

@@ -9,7 +9,7 @@ category:
 June 2020
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0 mx-auto d-block">
+    <div class="col-5 col-sm-5 mt-3 mt-md-0 mx-auto d-block">
         {% include figure.html path="assets/img/bikebuddy/bikebuddy_screenshot.png" title="example image" class="img-fluid rounded" %}
     </div>
 </div>

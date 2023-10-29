@@ -3,7 +3,7 @@ layout: page
 title: Myo Arm
 description: a low-cost, 3D printed prosthetic arm controlled by EMG
 img: assets/img/myoarm/armoverview.jpg
-importance: 3
+importance: 2
 category:
 ---
 December 2021
