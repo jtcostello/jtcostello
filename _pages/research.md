@@ -13,7 +13,7 @@ Previously I trained under <a href="https://www.neuroengineer.org/">Dr. Parag Pa
 deep-brain stimulation (DBS) treatment by developing patient-specific maps of the brain. I also did a 6-month
 internship at Boston Scientific Neuromodulation, developing algorithms for closed-loop DBS.
 
-Currently, I work in <a href="https://chestekresearch.engin.umich.edu/">Prof. Cindy Chestek's</a> group Michigan, 
+Currently, I work in <a href="https://chestekresearch.engin.umich.edu/">Prof. Cindy Chestek's</a> group at Michigan, 
 where I am developing algorithms for decoding movement from brain-computer interfaces (BCIs).
 I work on the following:
 - neural networks for improved real-time movement decoding from intracortical BCIs

@@ -33,17 +33,17 @@ type characters, I created a tertiary morse code where the user uses flex/extend
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0 mx-auto d-block">
-        {% include figure.html path="assets/img/myoarm/systemdiagram.jpg" title="system overview" class="img-fluid rounded" %}
+        {% include figure.html path="assets/img/myoarm/systemdiagram.png" title="system overview" class="img-fluid rounded" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 mx-auto d-block">
-        {% include figure.html path="assets/img/myoarm/diagram2.jpg" title="system overview" class="img-fluid rounded" %}
+        {% include figure.html path="assets/img/myoarm/diagram2.png" title="system overview" class="img-fluid rounded" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 mx-auto d-block">
-        {% include figure.html path="assets/img/myoarm/diagram1.jpg" title="system overview" class="img-fluid rounded" %}
+        {% include figure.html path="assets/img/myoarm/diagram1.png" title="system overview" class="img-fluid rounded" %}
     </div>
 </div>
