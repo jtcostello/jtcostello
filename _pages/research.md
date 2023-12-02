@@ -18,7 +18,7 @@ where I am developing algorithms for decoding movement from brain-computer inter
 I work on the following:
 - neural networks for improved real-time movement decoding from intracortical BCIs
 - methods for improving BCI power consumption without sacrificing performance
-- decoding EMG for prosthetic control
+- algorithms for decoding EMG for prosthetic control
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

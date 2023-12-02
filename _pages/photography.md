@@ -9,6 +9,15 @@ nav_order: 5
 
 I like to take landscape and sports photos. Here are some of my favorites.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/falldrone2023.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/winterdrone2023.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
